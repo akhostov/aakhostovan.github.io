@@ -1,0 +1,29 @@
+// Uncomment to disable dingbat icons below posts
+// hr.dingbat { display: none }
+
+.avatar {
+  // <<< inline
+  width: 15rem;
+  height: 15rem;
+  border-radius: 100%;
+  overflow: hidden;
+  display: inline-block;
+  img { width: 100%; }
+  // >>>
+
+  // <<< link
+  position: relative;
+  z-index: 1;
+  // >>>
+}
+
+// <<< inline
+.content .avatar {
+  @extend .color-transition;
+  float: right;
+  box-sizing: content-box;
+  border: 1rem solid var(--body-bg);
+  transition: border-color 1s ease;
+  margin-top: -7rem;
+  margin-right: -1rem;
+}

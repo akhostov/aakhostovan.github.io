@@ -1,0 +1,20 @@
+<div class="screen-only">
+  <!--
+  {% if page.buttons.print %}
+    <button class="btn btn-sm btn-primary mt1" onclick="window.print()">
+      <small class="icon-printer"></small>
+      {{ site.data.strings.print | default: "Print" }}
+    </button>
+  {% endif %}
+  -->
+  {% if page.buttons.pdf %}
+    {% assign pdf = page.buttons.pdf %}
+    {% if pdf %}
+      <a href="{% include smart-url url=pdf %}" class="btn btn-sm btn-primary mt1">
+        <small class="icon-file-pdf"></small>
+        <!--{{ site.data.strings.resume.download_pdf | default: " " }}-->
+        Full CV
+      </a>
+    {% endif %}
+  {% endif %}
+</div>

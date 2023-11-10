@@ -1,0 +1,14 @@
+---
+layout: projects
+title: Research
+show_collection: research
+#description: >
+no_groups: true
+---
+
+My main research interests is primarily based on observational studies of galaxy formation and evolution at varying cosmic epochs from $$z \sim 0.4$$ up to $$z \sim 9$$. More specifically, my research focuses on investigating how star-forming galaxies formed and evolved from low- to high-z with the main objectives of: 1) understanding how star-formation occurred (e.g., steady/bursty SF histories); 2) how cold gas conditions changed (e.g., varying ISM conditions); and, 3) how internal (e.g., stellar winds, AGN feedback) and external (e.g., halo quenching, environment) mechanisms influenced the way star-formation happened. Investigating star-formation activity in galaxies is crucial in understanding how they formed and grew to become the present-day large structures. My main research is done via a combination of narrowband surveys, broadband color excesses, and spectroscopic follow-up/archival work.
+
+Recently, I am interested in studying Extreme Emission Line Galaxies which are one of the most intense, bursty star-forming galaxies at any cosmic epoch enabling investigations of extreme conditions. I am also interested and currently developing large spectroscopic archives and datasets which would have legacy value for the community and further my own research by utilizing past (mostly unused) data to enable new science.
+
+Below is a list of various topics that I have worked and am currently working on. Click on each post to see a dedicated webpage for each project and feel free to contact me directly if you have any questions and/or want to collaborate ;)
+

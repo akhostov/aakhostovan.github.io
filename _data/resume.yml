@@ -1,0 +1,207 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Ali Ahmad Khostovan"
+  label: "Extragalactic Astrophysicist"
+  picture: "/assets/img/main/main_image.jpg"
+  email: ""
+  phone: "(415) 308-7465"
+  website: "https://akhostov.github.io"
+  summary: >
+    I am from South San Francisco, CA and earned my degrees from the University of California, Irvine (Bachelors in Physics) and University of California, Riverside (Masters and PhD in Physics).
+    I was also a NESSF PhD fellow my last 2 years at UC Riverside and went on to be a NASA Postdoctoral Program Fellow at Goddard Space Flight Center as my first postdoc position. I am currently 
+    a Postdoctoral Research Associate at RIT. My work primarily focuses on studying galaxy evolution, especially extreme emission line galaxies, using narrowband surveys, spectroscopic follow-ups, and broadband color excess. I am
+    interested in studying how star formation activity occured in galaxies, what factors influenced said activity, and map out the evolutionary path to present-day galaxies. My work also involves creating and managing the COSMOS
+    spectroscopic archive and spec-$$z$$ compilation. **Below is a brief version of my full CV which can be downloaded by clicking the "Full CV" button.**
+  location:
+    address: "Laboratory for Multiwavelength Astrophysics"
+    city: "Rochester Institute of Technology"
+    postalCode: "School of Physics & Astronomy"
+    countryCode: "US"
+    region: "New York"
+  profiles:
+    - network: "github"
+      username: "akhostov"
+      url: "https://github.com/akhostov"
+    - network: "LinkedIn"
+      username: "Ali Ahmad Khostovan"
+      url: "https://www.linkedin.com/in/ali-ahmad-khostovan-b5636678/"
+work:
+  - company: "Rochester Institute of Technology"
+    position: "Postdoctoral Research Associate"
+    website: "https://www.rit.edu/lama/"
+    startDate: "2021-09-01"
+    endDate: ""
+    summary: >
+      I am leading several projects under the supervision of Jeyhan Kartaltepe involving the development of a large COSMOS spectroscopic archive.
+    highlights:
+      - "Led development of a large archive of all spectroscopic data taken within COSMOS"
+      - "Contributed to the development of Redshift Wrangler, a citizen science program designed for users to help in analyzing reduced data from the COSMOS Spectroscopic Archive."
+      - "Main lead on creating and maintaining the COSMOS spec-z compilation of published redshifts (separate from above mentioned archive)."
+      - "Leading PI on 2 spectroscopic follow-up programs with Keck and Gemini"
+      - "Led studies on Extreme Emission Line Galaxies with JWST/NIRcam imaging and archival spectra"
+  - company: "Goddard Space Flight Center"
+    position: "NASA Postdoctoral Program Fellow"
+    website: "https://npp.orau.org/index.html"
+    startDate: "2018-09-04"
+    endDate: "2021-09-04"
+    summary: >
+      I led several projects under the supervision of Sangeeta Malhotra and James Rhoads on investigating emission line galaxies with large narrowband surveys. The pivotal moment of this position
+      was creating a forward modeling approach in constraining the intrinsic equivalent width distributions of galaxy populations and highlighting how this approach can be used to infer the relative
+      contribution of high EW emitters to total cosmic star formation activity at any constrained redshift. 
+    highlights:
+      - "Led studies on emission line galaxies selected from the narrowband LAGER survey"
+      - "Worked on creating clean & reliable samples of Hα, [Oiii], and [Oii] emitters"
+      - "Used statistical modeling (e.g., MCMC) to investigate luminosity functions of samples"
+      - "Developed a statistical, forward modeling approach to study the intrinsic equivalent widths of star-forming galaxies"
+      - "Developed a method predicting number count predictions for *Roman* and *Euclid* based on constraints from stellar mass functions and intrinsic H&alpha; equivalent width evolution"
+  - company: "University of California, Riverside"
+    position: "NASA Earth & Space Sciences PhD Fellow (NESSF)"
+    website: "https://npp.orau.org/index.html"
+    startDate: "2018-09-04"
+    endDate: "2021-09-04"
+    summary: >
+      I led projects that made up the core of my PhD thesis studying emission line galaxies using wide narrowband and intermediate-band surveys targeting H&alpha;, [OIII], [OII], and Ly&alpha; emitters from $$ z \sim 0.4$$ to $$\sim 6$$.
+    highlights:
+      - "Led studies on emission line galaxies selected via several narrowband surveys"
+      - "Investigated statistical properties of star-forming galaxies up to z ∼ 6"
+      - "Used machine learning approaches to study galaxy-galaxy clustering and galaxy-halo connection"
+
+education:
+  - institution: "University of California, Riverside"
+    area: "Physics"
+    studyType: "PhD"
+    startDate: "2013-09-01"
+    endDate: "2018-09-01"
+    courses:
+      - "Advisers: Bahram Mobasher (UCR) and David Sobral (Univ. of Lisbon; later Lancaster Univ.)"
+      - "Thesis: The Evolution of Star-Forming Galaxies with the Largest Narrowband Surveys"
+  - institution: "University of California, Riverside"
+    area: "Physics"
+    studyType: "Masters of Science"
+    startDate: "2012-09-01"
+    endDate: "2013-09-01"
+  - institution: "University of California, Irvine"
+    area: "Physics"
+    studyType: "Bachelors of Science"
+    startDate: "2008-09-01"
+    endDate: "2012-09-01"
+    courses:
+      - "Adviser: Asantha Cooray"
+      - "Did four years of undergraduate research as part of the Cooray Group"
+      - "Honors Thesis: Evolution of Submillimeter Galaxies"
+
+#volunteer:
+#  - organization: "CoderDojo"
+#    position: "Teacher"
+#    website: "https://coderdojo.com/"
+#    startDate: "2012-01-01"
+#    endDate: "2013-01-01"
+#    summary: "Global movement of free coding clubs for young people."
+#    highlights:
+#      - "Awarded 'Teacher of the Month'"
+
+#awards:
+#  - title: "Digital Compression Pioneer Award"
+#    date: "2014-11-01"
+#    awarder: "Techcrunch"
+#    summary: "There is no spoon."
+#publications:
+#  - name: "Video compression for 3d media"
+#    publisher: "Hooli"
+#    releaseDate: "2014-10-01"
+#    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Programming"
+    level: "  "
+    keywords:
+      - "Python"
+      - "IDL"
+      - "Shell Scripting"
+      - "C"
+      - "SQL"
+  - name: "Catalog & Data Visualization Tools"
+    level: " "
+    keywords:
+      - "DS9"
+      - "TopCat"
+      - "SpecPro"
+  - name: "Data Reduction"
+    level: " "
+    keywords:
+      - "Pypeit (extensive)"
+      - "MOSFIRE DRP"
+      - "FIBRE-pac"
+      - "SExtractor"
+      - "IRAF/PyRAF"
+  - name: "Photo-z Tools"
+    level: " "
+    keywords:
+      - "LePhare"
+      - "EaZY"
+  - name: "SED & Line Tools"
+    level: " "
+    keywords:
+      - "Cigale"
+      - "Prospector"
+      - "Bagpipes"
+      - "Magphys"
+      - "PyQSOFit"     
+  - name: "Data Experience"
+    level: " "
+    keywords:
+      - "Extensive experience anallyzing optical & near-IR spectroscopic data"  
+  - name: "Machine Learning"
+    level: " "
+    keywords:
+      - "KDTree"
+      - "Clustering"
+      - "Nearest Neighbors" 
+  - name: "Python Packages"
+    level: " "
+    keywords:
+      - "astropy"
+      - "numpy"
+      - "scipy"     
+      - "scikit-learn"
+      - "astroML"
+      - "matplotlib"        
+  - name: "Statistical Analysis"
+    level: " "
+    keywords:
+      - "MCMC"
+      - "Metropolis-Hastings"
+      - "Bootstrapping"     
+      - "Bayesian Statistics"
+      - "MLE"
+      - "Hypothesis Testing"         
+  - name: "Technologies/Framework"
+    level: " "
+    keywords:
+      - "Mac OSX"
+      - "Windows"
+      - "Linux"     
+      - "GitHub"
+      - "Jeykll"
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+  - language: "Farsi"
+    fluency: "Native speaker"
+interests:
+  - name: "Music"
+    keywords:
+      - "Classical Iranian"
+      - "Jazz"
+  - name: "Hiking"
+    keywords:
+      - "Mt Baldy"
+      - "Shenandoah"
+      - "Great Falls Trail"  
+  - name: "Aviation"
+    keywords:
+      - "Flying (PPL one day)"
+      - "Plane Spotting"  
+

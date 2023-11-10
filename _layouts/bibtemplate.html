@@ -1,0 +1,194 @@
+---
+---
+{{ reference }}
+
+<div class="reference-container">
+  {% if entry.abstract %}
+    <button class="btn btnId btnPub--abstract" id="b_{{ key }}-abstract">Abstract</button>
+  {% endif %}
+
+  <!--
+  {% if link %}
+    <a href="{{ link }}"><button class="btn btnId btnPub--download">PDF</button></a>
+  {% endif %}
+  -->
+
+  <!--
+  {% if entry.file %}
+    <a href="{{ entry.file }}" target="_blank"><button class="btn btnId btnPub--download">PDF</button></a>
+  {% endif %}
+  -->
+  {% if link %}
+    <a href="{{ link }}"><button class="btn btnId btnPub--download">PDF</button></a>
+  {% endif %}
+
+  {% if entry.adsurl %}
+    <a href="{{ entry.adsurl }}"><button class="btn btnId btnPub--ads">NASA ADS</button></a>
+  {% endif %}
+  
+  <div class="dropDownAbstract" id="{{ key }}-abstract" style="display: none;">
+    {{ entry.abstract }}
+  </div>
+</div>
+
+<style>
+	.pubyear{
+		color: #7a8288;
+		border-bottom: 1px solid #f2f3f3;
+	}
+
+
+	.publications {
+	    h2 {
+	        color: black;
+	        // border-bottom: 1px solid black;
+	        // border-top: 1px solid black;
+	        font-size: 32px;
+	        margin-bottom: 30px;
+	        // padding: 20px 0;
+	        text-align: center;
+	    }
+	}
+	.year {
+	    border-top: 1px solid black;
+	    color: $light-gray;
+	    margin: 0 -3em -2.5ex -2em;
+	    padding-top: 1ex;
+	    text-align: right;
+	}
+	.bibliography {
+	    margin-bottom: 50px;
+	    margin-top: 20px;
+	    list-style-type: circle;
+
+	    li {
+	        margin: 10px 0;
+	        position: relative;
+
+	        span { display: block; }
+	        .title { font-weight: bolder; }
+	        .author {
+	            a {
+	                border-bottom: 1px dashed black;
+	                &:hover {
+	                    border-bottom-style: solid;
+	                    text-decoration: none;
+	                }
+	            }
+	            > em {
+	                border-bottom: 1px solid;
+	                font-style: normal;
+	            }
+	        }
+	        a.abstract, a.bibtex { cursor: pointer; }
+	        .hidden {
+	            font-size: 10px;
+	            max-height: 0px;
+	            overflow: hidden;
+	            text-align: justify;
+	            -webkit-transition: 0.15s ease;
+	            -moz-transition: 0.15s ease;
+	            -ms-transition: 0.15s ease;
+	            -o-transition: 0.15s ease;
+	            transition: all 0.15s ease;
+
+	            p {
+	                line-height: 1.4em;
+	                margin: 10px;
+	            }
+	            pre {
+	                font-size: 1em;
+	                line-height: 1.4em;
+	                padding: 10px;
+	            }
+	        }
+	        .hidden.open {
+	            max-height: 100em;
+	            -webkit-transition: 0.15s ease;
+	            -moz-transition: 0.15s ease;
+	            -ms-transition: 0.15s ease;
+	            -o-transition: 0.15s ease;
+	            transition: all 0.15s ease;
+	        }
+	        span.abstract.hidden {
+	            border: dashed 1px $background-color;
+	        }
+	        span.abstract.hidden.open {
+	            border-color: black;
+	        }
+	    }
+	    abbr {
+	        position: absolute;
+	            left: -7em;
+	    }
+	 }
+	.star {
+	    color: black;
+	    font-style: normal;
+	}
+
+
+
+
+  /* CSS to style the reference container and buttons */
+  .reference-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin: 10px 0;
+  }
+
+  /* Style for the "Abstract" button with a gradient background */
+  .btnPub--abstract {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background: linear-gradient(to bottom, darkred, red); /* Darker to lighter gradient */
+    color: white; /* Text color */
+    padding: 5px 10px; /* Adjust padding as needed */
+    border: none; /* Remove the border */
+  }
+
+  /* Style for the "PDF" button with a different gradient background */
+  .btnPub--download {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background: linear-gradient(to bottom, darkgreen, green); /* Darker to lighter gradient */
+    color: white; /* Text color */
+    padding: 5px 10px; /* Adjust padding as needed */
+    border: none; /* Remove the border */
+  }
+
+  /* Style for the "Supplement" button with a different gradient background */
+  .btnPub--ads {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background: linear-gradient(to bottom, darkblue, blue); /* Darker to lighter gradient */
+    color: white; /* Text color */
+    padding: 5px 10px; /* Adjust padding as needed */
+    border: none; /* Remove the border */
+  }
+
+  .dropDownAbstract {
+    width: 100%;
+    display: none;
+  }
+
+  .dropDownAbstract {
+    margin-top: 10px;
+  }
+</style>
+
+
+<script>
+  // JavaScript code to toggle the visibility of the abstract section
+  const referenceContainers = document.querySelectorAll('.reference-container');
+
+  referenceContainers.forEach(container => {
+    const abstractButton = container.querySelector('.btnPub--abstract');
+    const abstractSection = container.querySelector('.dropDownAbstract');
+
+    abstractButton.addEventListener("click", () => {
+      abstractSection.style.display = abstractSection.style.display === "none" ? "block" : "none";
+    });
+  });
+</script>

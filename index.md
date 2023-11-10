@@ -1,0 +1,35 @@
+---
+layout: welcome
+title: Welcome
+description: >
+  The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
+hide_description: True
+cover: true
+featured: true
+projects_page: research.md
+buttons:
+  pdf: /assets/CV/cv.pdf
+---
+
+
+![Main Image](assets/img/main/aak_main_image.jpg){:.lead width="1920" height="1080" loading="lazy"}
+
+*Hello and welcome to my website!* 
+
+My name is Ali Ahmad Khostovan. I am an observational extragalactic astrophysicist (fancy talk for I study galaxies using telescopes :D). I am currently
+working as a Postdoctoral Research Associate at Rochester Institute of Technology under the supervision of Jeyhan Kartaltepe. I am originally from 
+South San Francisco, CA and moved south to pursue my undergraduate studies with Asantha Cooray at UC Irvine where I worked as part of his group for all
+four years. I received my Bachelors of Science in Physics (specialized in Astrophysics) in 2012 and went 1 hour northeast to UC Riverside where I pursued
+my PhD studies. My thesis advisers were Bahram Mobasher (UCR) and David Sobral (Univ. of Lisbon; later Lancaster Univ) where I worked on studying galaxies
+selected via their strong emission line features using narrowband surveys. My PhD work was funded by a Chancellor's Distinction Fellowship and NASA Earth
+& Space Sciences Fellowship. I received my PhD in 2018 and moved to Maryland where I continued my work in studying emission line galaxies as a NASA Postdoctoral
+Program Fellow at Goddard Space Flight Center under the supervision of Sangeeta Malhotra and James Rhoads. As of 2021, I have been working as a Postdoctoral Research Associate
+in Jeyhan Kartaltepe's group at RIT on several interesting projects related to archival spectroscopic datasets to *JWST* studies of Extreme Emission Line Galaxies to citizen science programs.
+
+**I am currently applying for faculty, research staff, and postdoctoral positions** and hope this website would be a great reference for anyone to learn more about what I do. Feel free to look around and reach out if you have any questions. I
+am also always open to collaborating with scientists and public outreach representatives and would love to hear from you.
+
+You can also refer to my CV (includes list of publications):
+{% include pro/resume/buttons.html button_name="Full CV" button_class="btn btn-sm btn-primary mt1" %}
+
+<!--projects-->
