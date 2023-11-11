@@ -2,11 +2,11 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
 gem "jekyll-theme-hydejack", "~> 9.1"
-gem 'jekyll-scholar'
 gem "kramdown-parser-gfm" 
 gem 'faraday-retry'
 
 group :jekyll_plugins do
+  gem 'jekyll-scholar'
   gem "jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
