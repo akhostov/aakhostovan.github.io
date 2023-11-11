@@ -1,0 +1,61 @@
+I"C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/outreach/redshift_wrangler/#project"
+  >
+  <meta property="name" content="Redshift Wrangler"/>
+  <meta property="image" content="/assets/outreach/redshift_wrangler.png"/>
+
+  <a href="/outreach/redshift_wrangler/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/outreach/redshift_wrangler.png"
+    srcset="/assets/outreach/redshift_wrangler.png 1920w,/assets/outreach/redshift_wrangler.png 960w,/assets/outreach/redshift_wrangler.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="Redshift Wrangler"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/outreach/redshift_wrangler/" class="flip-title" property="mainEntityOfPage">Redshift Wrangler</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      A Citizen Scientist Program
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/outreach/redshift_wrangler/" tabindex="-1"><span class="sr-only">Continue reading Redshift Wrangler
+</span></a>
+</article>
+:ET

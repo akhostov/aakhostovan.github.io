@@ -6,7 +6,6 @@ gem "kramdown-parser-gfm"
 gem 'faraday-retry'
 
 group :jekyll_plugins do
-  gem 'jekyll-scholar'
   gem "jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
@@ -20,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem 'jekyll-gist'
   gem "jekyll-archives"
+  gem 'jekyll-scholar'
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"

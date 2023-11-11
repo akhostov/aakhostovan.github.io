@@ -1,0 +1,61 @@
+I"$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/research/COSMOS_specz_comp/#project"
+  >
+  <meta property="name" content="COSMOS Spectroscopic Redshift Compilation"/>
+  <meta property="image" content="/assets/research/specz_compilation/LSS.png"/>
+
+  <a href="/research/COSMOS_specz_comp/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/research/specz_compilation/LSS.png"
+    srcset="/assets/research/specz_compilation/LSS.png 1920w,/assets/research/specz_compilation/LSS.png 960w,/assets/research/specz_compilation/LSS.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="COSMOS Spectroscopic Redshift Compilation"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/research/COSMOS_specz_comp/" class="flip-title" property="mainEntityOfPage">COSMOS Spectroscopic Redshift Compilation</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      I am leading a compilation of all published spectroscopic redshifts in the COSMOS field. This has legacy value for the community as such compilations can be used for a multitude of reasons from photo-\(z\) calibrations and contamination assessments to follow-up studies with other facilities. The compilation will be made public when the survey paper (led by me) is published (expected 2024).
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/research/COSMOS_specz_comp/" tabindex="-1"><span class="sr-only">Continue reading COSMOS Spectroscopic Redshift Compilation
+</span></a>
+</article>
+:ET

@@ -1,0 +1,61 @@
+I"¯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/research/EELGs/#project"
+  >
+  <meta property="name" content="Extreme Emission Line Galaxies at z ~ 0.4 - 2.2 and Equivalent Width Evolution"/>
+  <meta property="image" content="/assets/research/EELGs/SFRDs_EELGs.png"/>
+
+  <a href="/research/EELGs/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/research/EELGs/SFRDs_EELGs.png"
+    srcset="/assets/research/EELGs/SFRDs_EELGs.png 1920w,/assets/research/EELGs/SFRDs_EELGs.png 960w,/assets/research/EELGs/SFRDs_EELGs.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="Extreme Emission Line Galaxies at z ~ 0.4 - 2.2 and Equivalent Width Evolution"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/research/EELGs/" class="flip-title" property="mainEntityOfPage">Extreme Emission Line Galaxies at z ~ 0.4 - 2.2 and Equivalent Width Evolution</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      I led several studies on how equivalent width distributions (tracers of star formation histories) evolves with redshift and specifically focused on high EW (Extreme Emission Line Galaxy) sources.
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/research/EELGs/" tabindex="-1"><span class="sr-only">Continue reading Extreme Emission Line Galaxies at z ~ 0.4 - 2.2 and Equivalent Width Evolution
+</span></a>
+</article>
+:ET

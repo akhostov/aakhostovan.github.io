@@ -1,0 +1,56 @@
+I"º
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/teaching_mentorship/astroTopics/#project"
+  >
+  <meta property="name" content="astroTopics"/>
+  <meta property="image" content="/assets/img/teaching/astroTopics.png"/>
+
+  <a href="/teaching_mentorship/astroTopics/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/img/teaching/astroTopics.png"
+    srcset="/assets/img/teaching/astroTopics.png 1920w,/assets/img/teaching/astroTopics.png 960w,/assets/img/teaching/astroTopics.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="astroTopics"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/teaching_mentorship/astroTopics/" class="flip-title" property="mainEntityOfPage">astroTopics</a>
+  </h3>
+  
+  
+  <a class="fill-card no-hover" href="/teaching_mentorship/astroTopics/" tabindex="-1"><span class="sr-only">Continue reading astroTopics
+</span></a>
+</article>
+:ET

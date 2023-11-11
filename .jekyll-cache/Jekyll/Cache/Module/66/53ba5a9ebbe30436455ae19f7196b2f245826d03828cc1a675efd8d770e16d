@@ -1,0 +1,61 @@
+I"ç
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/surveys/LAGER/#project"
+  >
+  <meta property="name" content="LAGER"/>
+  <meta property="image" content="/assets/surveys/LAGER/LAGER_main.png"/>
+
+  <a href="/surveys/LAGER/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/surveys/LAGER/LAGER_main.png"
+    srcset="/assets/surveys/LAGER/LAGER_main.png 1920w,/assets/surveys/LAGER/LAGER_main.png 960w,/assets/surveys/LAGER/LAGER_main.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="LAGER"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/surveys/LAGER/" class="flip-title" property="mainEntityOfPage">LAGER</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Lyman Alpha Galaxies at Epoch of Reionization
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/surveys/LAGER/" tabindex="-1"><span class="sr-only">Continue reading LAGER
+</span></a>
+</article>
+:ET

@@ -1,0 +1,61 @@
+I"ê
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/outreach/kid_museum/#project"
+  >
+  <meta property="name" content="Grand Opening of KID Museum"/>
+  <meta property="image" content="/assets/outreach/kid_museum.png"/>
+
+  <a href="/outreach/kid_museum/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/outreach/kid_museum.png"
+    srcset="/assets/outreach/kid_museum.png 1920w,/assets/outreach/kid_museum.png 960w,/assets/outreach/kid_museum.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="Grand Opening of KID Museum"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/outreach/kid_museum/" class="flip-title" property="mainEntityOfPage">Grand Opening of KID Museum</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Worked with University of Maryland, College Park E&amp;CE Department on showcasing drones and teaching kids how to program them
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/outreach/kid_museum/" tabindex="-1"><span class="sr-only">Continue reading Grand Opening of KID Museum
+</span></a>
+</article>
+:ET

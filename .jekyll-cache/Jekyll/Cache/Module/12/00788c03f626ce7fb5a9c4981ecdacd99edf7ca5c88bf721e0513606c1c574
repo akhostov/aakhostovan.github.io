@@ -1,0 +1,61 @@
+I" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/outreach/riverside_downtown/#project"
+  >
+  <meta property="name" content="Long Night of Arts & Innovation"/>
+  <meta property="image" content="/assets/outreach/riverside_downtown.png"/>
+
+  <a href="/outreach/riverside_downtown/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/outreach/riverside_downtown.png"
+    srcset="/assets/outreach/riverside_downtown.png 1920w,/assets/outreach/riverside_downtown.png 960w,/assets/outreach/riverside_downtown.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="Long Night of Arts & Innovation"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/outreach/riverside_downtown/" class="flip-title" property="mainEntityOfPage">Long Night of Arts & Innovation</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      UCR Astronomy Exhibit at Annual City of Riverside Event
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/outreach/riverside_downtown/" tabindex="-1"><span class="sr-only">Continue reading Long Night of Arts & Innovation
+</span></a>
+</article>
+:ET

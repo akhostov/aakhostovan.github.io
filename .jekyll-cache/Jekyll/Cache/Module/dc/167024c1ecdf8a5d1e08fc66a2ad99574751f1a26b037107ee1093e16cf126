@@ -1,0 +1,61 @@
+I">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/research/Clustering/#project"
+  >
+  <meta property="name" content="Star Forming Galaxies and Host Dark Matter Halos"/>
+  <meta property="image" content="/assets/research/clustering/DMH.png"/>
+
+  <a href="/research/Clustering/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/research/clustering/DMH.png"
+    srcset="/assets/research/clustering/DMH.png 1920w,/assets/research/clustering/DMH.png 960w,/assets/research/clustering/DMH.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="Star Forming Galaxies and Host Dark Matter Halos"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/research/Clustering/" class="flip-title" property="mainEntityOfPage">Star Forming Galaxies and Host Dark Matter Halos</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      I led studies on galaxy - galaxy clustering of emission line selected galaxies up to \(z \sim 6\) finding a strong, redshift-independent correlation between host halo mass and emission line luminosity independent of line selection with evidence of a transitional halo mass at \(L &gt; L^\star\). This highlights the important role that host halos could have in regulating cold gas accretion resulting in star formation and strong nebular emission lines.
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/research/Clustering/" tabindex="-1"><span class="sr-only">Continue reading Star Forming Galaxies and Host Dark Matter Halos
+</span></a>
+</article>
+:ET

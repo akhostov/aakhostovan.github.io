@@ -1,0 +1,206 @@
+I"B<div class="sidebar-sticky">
+  <div class="sidebar-about">
+    
+      <a class="no-hover" href="/" tabindex="-1">
+        <img src="/assets/img/main/main_image.jpg" class="avatar" alt="Ali Ahmad Khostovan" width="120" height="120" loading="lazy" />
+      </a>
+    
+    <a class="sidebar-title" href="/"><h2 class="h1">Ali Ahmad Khostovan</h2></a>
+    
+    
+      <p class="">
+        Postdoctoral Research Associate Rochester Institute of Technology
+
+      </p>
+    
+  </div>
+
+  <nav class="sidebar-nav heading" role="navigation">
+    <span class="sr-only">Navigation:</span>
+<ul>
+  
+    
+      
+      <li>
+        <a
+          id="_drawer--opened"
+          href="/about_me/"
+          class="sidebar-nav-item "
+          
+        >
+          About
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/research/"
+          class="sidebar-nav-item "
+          
+        >
+          Research
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/surveys/"
+          class="sidebar-nav-item "
+          
+        >
+          Surveys
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/cv/"
+          class="sidebar-nav-item "
+          
+        >
+          CV
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/list_of_publications/"
+          class="sidebar-nav-item "
+          
+        >
+          List of Publications
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/teaching_mentorship/"
+          class="sidebar-nav-item "
+          
+        >
+          Teaching & Mentorship
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/outreach/"
+          class="sidebar-nav-item "
+          
+        >
+          Outreach
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/music/"
+          class="sidebar-nav-item "
+          
+        >
+          Music
+        </a>
+      </li>
+    
+  
+</ul>
+
+  </nav>
+
+  
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="mailto:akhostov@gmail.com" title="Email" class="no-mark-external">
+      <span class="icon-mail"></span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://github.com/akhostov" title="GitHub" class="no-mark-external">
+      <span class="icon-github"></span>
+      <span class="sr-only">GitHub</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://www.linkedin.com/in/ali-ahmad-khostovan-b5636678" title="LinkedIn" class="no-mark-external">
+      <span class="icon-linkedin2"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  </li>
+
+
+    
+  
+</ul>
+
+  </div>
+</div>:ET

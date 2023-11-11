@@ -1,0 +1,61 @@
+I"Å
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/surveys/SC4K/#project"
+  >
+  <meta property="name" content="SC4K"/>
+  <meta property="image" content="/assets/surveys/SC4K/main_SC4K.png"/>
+
+  <a href="/surveys/SC4K/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/surveys/SC4K/main_SC4K.png"
+    srcset="/assets/surveys/SC4K/main_SC4K.png 1920w,/assets/surveys/SC4K/main_SC4K.png 960w,/assets/surveys/SC4K/main_SC4K.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="SC4K"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/surveys/SC4K/" class="flip-title" property="mainEntityOfPage">SC4K</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Slicing COSMOS with 4000 LAEs
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/surveys/SC4K/" tabindex="-1"><span class="sr-only">Continue reading SC4K
+</span></a>
+</article>
+:ET

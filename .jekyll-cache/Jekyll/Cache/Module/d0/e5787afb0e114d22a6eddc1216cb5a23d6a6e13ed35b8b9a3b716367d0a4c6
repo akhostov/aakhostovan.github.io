@@ -1,0 +1,61 @@
+I"0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article
+  class="project-card"
+  vocab="http://schema.org/" typeof="CreativeWork" resource="/surveys/COSMOSWeb/#project"
+  >
+  <meta property="name" content="COSMOS-Web"/>
+  <meta property="image" content="/assets/surveys/COSMOSWeb/COSMOSWeb_main.png"/>
+
+  <a href="/surveys/COSMOSWeb/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img ">
+      
+        
+
+
+<img
+  
+    src="/assets/surveys/COSMOSWeb/COSMOSWeb_main.png"
+    srcset="/assets/surveys/COSMOSWeb/COSMOSWeb_main.png 1920w,/assets/surveys/COSMOSWeb/COSMOSWeb_main.png 960w,/assets/surveys/COSMOSWeb/COSMOSWeb_main.png 480w"
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="COSMOS-Web"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/surveys/COSMOSWeb/" class="flip-title" property="mainEntityOfPage">COSMOS-Web</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Large 0.54 deg\(^2\) <em>JWST</em> program
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/surveys/COSMOSWeb/" tabindex="-1"><span class="sr-only">Continue reading COSMOS-Web
+</span></a>
+</article>
+:ET

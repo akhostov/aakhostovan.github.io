@@ -1,0 +1,17 @@
+I"ñ
+
+
+<img
+  
+    src="/assets/img/main/main_image.jpg"
+    srcset="/assets/img/main/main_image.jpg 1x,/assets/img/main/main_image.jpg 2x"
+    
+  
+  alt="Ali Ahmad Khostovan"
+  class="avatar"
+  
+  width="120"
+  height="120"
+  loading="lazy"
+/>
+:ET
