@@ -48,9 +48,6 @@ Project: Learning MAGPHYS and how to extract SED-derived galaxy properties
 ### Minor PhD Mentorship
 
 Sadie Coffin, Jitrapon Lertprasertpon, Isa Cox, Brittany Vanderhoof (now STScI Postdoc)
-
-### Minor Undergraduate Mentorship
-
 Nima Chartab (now Carnegie Postdoc), Marziye Jafariyazani (now IPAC Postdoc)
 
 ## Teaching Experience
