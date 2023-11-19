@@ -6,7 +6,12 @@ show_collection: outreach
 no_groups: true
 ---
 
-I've been involved in the following:
+I have been part of several outreach programs over the years. I strongly believe that public outreach is something that should be included as part of any astronomer's life. What good is the knowledge that we learn from our hard-work investigations when we don't share it with the general public. More importantly, I see public outreach as an opportunity to make people not just educated on what we do, but also spark that motivation/curiosity in people's mind to appreaciate and/or pursue STEM. I hope that during these many years I inspired some to explore a life in STEM: be it in academia or industry. Below are the various outreach programs that I have been involved with. You can also click the posts at the bottom of this page for more information about specific programs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ooFpqEO-sSY?si=tbqzwfBrfX7mWmvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<span style="font-size: small;">Short 1 minute interview with [Charles "Chuck" Liu]{https://www.youtube.com/@TheLIUniverse} at the COSMOS Team Meeting 2023 -- Rochester Institute of Technology </span>
+
+
 
 - **Grand Opening of KID Museum** -- Bethesda, MD -- *Robotics & Drones Exhibitor*
 	- *Date:* 21 -- 22 May 2022
